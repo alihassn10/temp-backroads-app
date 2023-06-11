@@ -10,6 +10,7 @@ export const Navlinks = [
     { id: 2, href: '#about', name: 'about' },
     { id: 3, href: '#services', name: 'services' },
     { id: 4, href: '#tours', name: 'tours' },
+    { id: 4, href: '#tours', name: 'contact us' },
 ];
 
 export const SocialLinks = [
